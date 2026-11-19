@@ -26,6 +26,6 @@ for c in open_items:
     if closes:
         line += f"  closes {closes}"
     print(line)
-print("\nRead a bountys requirements before entering:")
+print("\nRead a bounty's requirements before entering:")
 print("  https://make.fun/api/competitions/<slug>/requirements")
 '
